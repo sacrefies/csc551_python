@@ -1,2 +1,2 @@
-# csc551_python
-Algorithm implementation in Python 2
+# CSC551 Python
+Algorithm course assignment implementation in Python 2
